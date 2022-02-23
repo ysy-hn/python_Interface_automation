@@ -1,0 +1,2 @@
+INSERT INTO 'config_total' ('key_config', 'value_config', 'description', 'status', 'create_time', 'update_time')
+VALUES ('name_export', "['getIpInfo.php', 'BaikeLemmaCardApi']", '导出接口数据配置', '1', NOW(),NOW());
